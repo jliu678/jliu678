@@ -35,7 +35,11 @@ Jiyuan has built end-to-end spatial genomics pipelines, covering: sample prepara
   - [A snakemake pipline-- quantify hERV, transgenes and genome from well-based scRNAseq](https://github.com/jliu678/snakemake-pipline_quantify-hERV-trangene_well-based-scRNAseq)
   - [A snakemake pipline-- quantify hERV, transgenes and genome from 10x scRNAseq](https://github.com/jliu678/snakemake-pipline_quantify-hERV-trangene_10x-scRNAseq)
   - [Integrated single-cell, genomic, and clinical analyses enabled a preclinically validated strategy to prevent and treat kidney cancer](https://github.com/jliu678/PRCC-Nature_Communications/blob/main/README.md)
-  - 
+  - [Effective RNA Velocity Analysis: Math, Implementation, Benchmarking, and Discovery of Tumor Development Trajectories from Real-World Single-Cell Genomics](https://github.com/jliu678/effective_rna_velocity_analysis/tree/main)
+
+- 👯 Tools I collobratively contributed to
+  - [The rseqR package: perform differential analysis of RNA-seq data](https://github.com/jliu678/rseqR_myPRapproved)
+  - [cellcuratoR: interactive single-cell gene expression visualizations from Seurat](https://github.com/jliu678/cellcuratoR_myPRmerged)
 - 🔭 I’m currently working on AI x Health and AI agents and Transformer engineering including building nano version of ChatGPT and Deepseek from scratch, LoRA fine tuning from sctratch:
   - [certifed AI agents developer](https://www.linkedin.com/posts/jiyuan-liu-7608a42a6_mindstudio-aiagents-automation-activity-7370679693399715840-Si3B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnQiTgBVixA2fAJogfjA8v6P8FFk_wBXXo) 
   - Hackthon project: [An multimodal agentic EHR co-pilot](https://github.com/jliu678/AI-x-Bio-Hackathon-Evolved-Boston-2025)   
