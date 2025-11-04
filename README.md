@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 Turned complex data into preclinically validated strategies through rigorous biological & mathematical reasoning | Co-Founder, Health x AI | Fundraising | Computational biologist
 
 ---
-Jiyuan Liu is a passionate, impact-driven computational biologist who **transforms complex data into preclinically validated cancer prevention and treatment, and drives high-confidence, efficient data-to-decision outcomes**, including hypothesis generation, actionable insights, and preclinical validated strategies.<br>
+I am a passionate, impact-driven computational biologist who **transforms complex data into preclinically validated cancer prevention and treatment, and drives high-confidence, efficient data-to-decision outcomes**, including hypothesis generation, actionable insights, and preclinical validated strategies.<br>
 
-His (co-)first-author publications demonstrate the impact and outcome: Oncogene(2022 and 2025), EMBO Reports(2023), Nature Communications(2025), two manuscripts in preparation. <br>His computational approach and philosophy to deliver preclinically validated strategies:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) seamlessly integrates expertise in computational analysis and bench science;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) applies robust mathematical and biological reasoning;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) leverages single-cell and spatial genomics to discover and prioritize cellular and molecular targets.
+My (co-)first-author publications demonstrate the impact and outcome: Oncogene(2022 and 2025), EMBO Reports(2023), Nature Communications(2025), two manuscripts in preparation. <br>My computational approach and philosophy to deliver preclinically validated strategies:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) seamlessly integrates expertise in computational analysis and bench science;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) applies robust mathematical and biological reasoning;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) leverages single-cell and spatial genomics to discover and prioritize cellular and molecular targets.
 
-He represented his university in the National Mathematical Modeling Contest and is highly proficient in developing and customizing computational infrastructure, including:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) building R packages from scratch;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) debugging and extending open-source tools in R and Python;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) developing and optimizing pipelines for translational R&D. 
+I represented his university in the National Mathematical Modeling Contest and is highly proficient in developing and customizing computational infrastructure, including:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) building R packages from scratch;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) debugging and extending open-source tools in R and Python;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) developing and optimizing pipelines for translational R&D. 
 
-Jiyuan has built end-to-end spatial genomics pipelines, covering: sample preparation; sequencing library construction; bioinformatics analysis; publication-ready presentation; preclinical validation.
+I have built end-to-end spatial genomics pipelines, covering: sample preparation; sequencing library construction; bioinformatics analysis; publication-ready presentation; preclinical validation.
 
 ---
 
