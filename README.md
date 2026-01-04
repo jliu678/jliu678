@@ -37,7 +37,7 @@ I have built end-to-end spatial genomics pipelines, covering: sample preparation
   - [Improve UMI Normalization that Determines the Downstream Interpretation of Single-Cell Transcriptomes](https://jiyuanliu.netlify.app/project/improved_scrnaseq_normalization/)
   - [Infection-Driven Uterine Tumorigenesis: Integrated Spatial and Single-Cell Profiling Validated in Patients and Preclinical Models](https://jiyuanliu.netlify.app/project/ut_tumor/)
 - 🔭 I’m currently working on AI x Health and AI agents and Transformer engineering including building nano version of ChatGPT and Deepseek from scratch, LoRA fine tuning from sctratch:
-  - I engineered [a high-performance histological analysis tool using YOLOv8](https://github.com/jliu678/Train-a-high-performance-Yolov8-CNN-model-for-histological-analysis), optimizing model accuracy through data augmentation and implementing Active Learning to combat overfitting
+  - I engineered [a high-performance CNN model for histological analysis based on YOLOv8](https://github.com/jliu678/Train-a-high-performance-Yolov8-CNN-model-for-histological-analysis), optimizing model accuracy through data augmentation and implementing Active Learning to combat overfitting
   - I am [certifed AI agents developer](https://www.linkedin.com/posts/jiyuan-liu-7608a42a6_mindstudio-aiagents-automation-activity-7370679693399715840-Si3B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnQiTgBVixA2fAJogfjA8v6P8FFk_wBXXo) 
   - My Hackthon project: [An multimodal agentic EHR co-pilot](https://github.com/jliu678/AI-x-Bio-Hackathon-Evolved-Boston-2025)
 
