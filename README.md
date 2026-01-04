@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Turned complex data into preclinically validated strategies through rigorous biological & mathematical reasoning | Co-Founder, Health x AI | Fundraising | Computational biologist
+Turned complex data into preclinically validated strategies through rigorous biological & mathematical reasoning | Co-Founder, Health x AI | Computational biologist
 
 ---
 I am a passionate, impact-driven computational biologist who **transforms complex data into preclinically validated cancer prevention and treatment, and drives high-confidence, efficient data-to-decision outcomes**, including hypothesis generation, actionable insights, and preclinical validated strategies.<br>
@@ -28,8 +28,8 @@ I have built end-to-end spatial genomics pipelines, covering: sample preparation
 ---
 
 - 💬 My accomplished computational biologiy projects are list on [my website](https://jiyuanliu.netlify.app/projects/) as well as:
-  - [SeqWins: An R package allowing flexible base trimming and complete Fastq analysis on Windows System as fast and memory-efficient as linux](https://github.com/jliu678/SeqWins)
-  - [Modeling the deposition of infectious agents suggests that aerosolized drugs offer enhanced specificity](https://github.com/jliu678/model_aerosol_depostion)
+  - [SeqWins: An R package allowing flexible base trimming and complete Fastq analysis on Windows System as fast and memory-efficient as linux](https://jiyuanliu.netlify.app/post/00a.seqwins/)
+  - [Modeling the deposition of infectious agents suggests that aerosolized drugs offer enhanced specificity](https://jiyuanliu.netlify.app/post/00.model_aerosol_depostion/)
   - [Effective RNA Velocity Analysis: Math, Implementation, Benchmark, and Discovery of Meaningful Tumor Trajectories from Real-World Single-Cell Genomics](https://jiyuanliu.netlify.app/project/effective_rna_velcocity/)
   - [Single-Cell Genomic and Clinical Data Analyses Pinpointed Targets and Drove the Preclinically Validated Novel Strategy To Prevent/Treat kidney cancer](https://github.com/jliu678/PRCC-Nature_Communications)
   - [Quantify Un-/Under- Annotated Features (hERVs, Transgenes) from (Single-Cell) Transcriptomics: Math Algorithms, Implementation and Turnkey Workflows](https://jiyuanliu.netlify.app/project/erv_quantification_from_rnaseq/)
@@ -41,7 +41,7 @@ I have built end-to-end spatial genomics pipelines, covering: sample preparation
   - [cellcuratoR: interactive single-cell gene expression visualizations from Seurat](https://github.com/jliu678/cellcuratoR_myPRmerged)(my PR got merged)
   - [My edition of stereopy: a fundamental and comprehensive tool for mining and visualization based on spatial transcriptomics data](https://github.com/jliu678/stereopy_jliu678-edits)(I fixed bugs in h5ad2rds.R and enabled successful conversion of spatial dataset from python h5ad to R seurat object)
   - [My edition of sctransform: a R package normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression](https://github.com/jliu678/sctransform_jliu678-edits)(I add new functions allow the theta_given to be effetive together with vst.flavor = "v2", thus to use the stabler glmgampoi (implemented in sctransform v2) to run the analytic pearson residual. Check [my blog](https://jiyuanliu.netlify.app/project/improved_scrnaseq_normalization/) to learn the logic flow of the original sctransform() and the improved UMI normalization model.)
-  - [My edition of msigdbr: MSigDB gene sets typically used with the Gene Set Enrichment Analysis (GSEA)](https://github.com/jliu678/msigdbr_jliu678-edits)(I updated the source genesets, and enabled using mouse genesets are directly from Msigdb rather than converted from human genesets based on orthologs. My PR was not approved at that time, but now the latest version acutally adopted my idea.)
+  - [My edition of msigdbr: MSigDB gene sets typically used with the Gene Set Enrichment Analysis (GSEA)](https://github.com/jliu678/msigdbr_jliu678-edits)(I updated the source genesets, and enabled using mouse genesets directly from Msigdb rather than converted from human genesets based on orthologs. My PR was not approved at that time, but the newer version acutally adopted my idea.)
 - 🔭 I’m currently working on AI x Health and AI agents and Transformer engineering including building nano version of ChatGPT and Deepseek from scratch, LoRA fine tuning from sctratch:
   - I am [certifed AI agents developer](https://www.linkedin.com/posts/jiyuan-liu-7608a42a6_mindstudio-aiagents-automation-activity-7370679693399715840-Si3B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnQiTgBVixA2fAJogfjA8v6P8FFk_wBXXo) 
   - My Hackthon project: [An multimodal agentic EHR co-pilot](https://github.com/jliu678/AI-x-Bio-Hackathon-Evolved-Boston-2025)
