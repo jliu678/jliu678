@@ -27,16 +27,15 @@ I have built end-to-end spatial genomics pipelines, covering: sample preparation
 
 ---
 
-- 💬 My accomplished computational biologiy projects including
-  - [Quantify hERV and transgenes from Bulk-RNAseq](https://github.com/jliu678/Quantify_hERV_transgene_Bulk-RNAseq)
+- 💬 My accomplished computational biologiy projects are list on [my website](https://jiyuanliu.netlify.app/projects/) as well as:
   - [SeqWins: An R package allowing flexible base trimming and complete Fastq analysis on Windows System as fast and memory-efficient as linux](https://github.com/jliu678/SeqWins)
-  - [Generate and validate ERV gtf that matches the latest reference genome](https://github.com/jliu678/Generate_validate_GRCm39_ERV)
   - [Modeling the deposition of infectious agents suggests that aerosolized drugs offer enhanced specificity](https://github.com/jliu678/model_aerosol_depostion)
-  - [A snakemake pipline-- quantify hERV, transgenes and genome from well-based scRNAseq](https://github.com/jliu678/snakemake-pipline_quantify-hERV-trangene_well-based-scRNAseq)
-  - [A snakemake pipline-- quantify hERV, transgenes and genome from 10x scRNAseq](https://github.com/jliu678/snakemake-pipline_quantify-hERV-trangene_10x-scRNAseq)
-  - [Integrated single-cell, genomic, and clinical analyses enabled a preclinically validated strategy to prevent and treat kidney cancer](https://github.com/jliu678/PRCC-Nature_Communications/blob/main/README.md)
-  - [Effective RNA Velocity Analysis: Math, Implementation, Benchmarking, and Discovery of Tumor Development Trajectories from Real-World Single-Cell Genomics](https://github.com/jliu678/effective_rna_velocity_analysis/tree/main)
-
+  - [Effective RNA Velocity Analysis: Math, Implementation, Benchmark, and Discovery of Meaningful Tumor Trajectories from Real-World Single-Cell Genomics](https://jiyuanliu.netlify.app/project/effective_rna_velcocity/)
+  - [Single-Cell Genomic and Clinical Data Analyses Pinpointed Targets and Drove the Preclinically Validated Novel Strategy To Prevent/Treat kidney cancer](https://github.com/jliu678/PRCC-Nature_Communications)
+  - [Quantify Un-/Under- Annotated Features (hERVs, Transgenes) from (Single-Cell) Transcriptomics: Math Algorithms, Implementation and Turnkey Workflows](https://jiyuanliu.netlify.app/project/erv_quantification_from_rnaseq/)
+  - [Integrated Analysis of Spatial Genomics and scRNAseq Identifies Occult Cervical Cancer Subtypes: Why Current Billion Dollar Screening Programs Fail the Most At-Risk Patients](https://jiyuanliu.netlify.app/project/cervical_cancer/)
+  - [Improve UMI Normalization that Determines the Downstream Interpretation of Single-Cell Transcriptomes](https://jiyuanliu.netlify.app/project/improved_scrnaseq_normalization/)
+  - [Infection-Driven Uterine Tumorigenesis: Integrated Spatial and Single-Cell Profiling Validated in Patients and Preclinical Models](https://jiyuanliu.netlify.app/project/ut_tumor/)
 - 👯 Tools I collobratively contributed to
   - [The rseqR package: perform differential analysis of RNA-seq data](https://github.com/jliu678/rseqR_myPRapproved)
   - [cellcuratoR: interactive single-cell gene expression visualizations from Seurat](https://github.com/jliu678/cellcuratoR_myPRmerged)
