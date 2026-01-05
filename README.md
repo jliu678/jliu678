@@ -21,7 +21,7 @@ I am a passionate, impact-driven computational biologist who **transforms comple
 
 My (co-)first-author publications demonstrate the impact and outcome: Oncogene(2022 and 2025), EMBO Reports(2023), Nature Communications(2025), two manuscripts in preparation. <br>My computational approach to deliver preclinically validated strategies:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) seamlessly integrates expertise in computational analysis and bench science;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) applies robust mathematical and biological reasoning;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) leverages single-cell and spatial genomics to discover and prioritize cellular and molecular targets.
 
-I represented his university in the National Mathematical Modeling Contest and is highly proficient in developing and customizing computational infrastructure, including:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) building R packages from scratch;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) debugging and extending open-source tools in R and Python;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) developing and optimizing pipelines for translational R&D. 
+I represented my university in the National Mathematical Modeling Contest and am highly proficient in developing and customizing computational infrastructure, including:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) building R packages from scratch;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) debugging and extending open-source tools in R and Python;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) developing and optimizing pipelines for translational R&D. 
 
 I have built end-to-end spatial genomics pipelines, covering: sample preparation; sequencing library construction; bioinformatics analysis; publication-ready presentation; preclinical validation.
 
