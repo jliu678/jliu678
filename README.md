@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Turned complex data into preclinically validated strategies through rigorous biological & mathematical reasoning | Co-Founder, Health x AI | Computational biologist
+Turned complex data into preclinically validated strategies through rigorous biological & mathematical reasoning | Multi-omics & AI/ML x Health | Computational biologist
 
 ---
 I am a passionate, impact-driven computational biologist who **transforms complex data into preclinically validated cancer prevention and treatment, and drives high-confidence, efficient data-to-decision outcomes**, including hypothesis generation, actionable insights, and preclinical validated strategies.<br>
