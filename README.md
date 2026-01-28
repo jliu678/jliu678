@@ -41,7 +41,8 @@ I have built end-to-end spatial genomics pipelines, covering: sample preparation
   - I am [certifed AI agents developer](https://www.linkedin.com/posts/jiyuan-liu-7608a42a6_mindstudio-aiagents-automation-activity-7370679693399715840-Si3B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnQiTgBVixA2fAJogfjA8v6P8FFk_wBXXo) 
   - My Hackthon project: [An multimodal agentic EHR co-pilot](https://github.com/jliu678/AI-x-Bio-Hackathon-Evolved-Boston-2025)
   - My edit of [State-of-the-Art Generative mRNA Design Transformer Streamlined for Restricted & Secure Clusters](https://github.com/jliu678/GEMORNA_jliu678-edit)
-  - I built [Synergy of Temporal Domain Expertise and LLM's World Knowledge: Agentic RAG with Dynamic Evolving Knowledge Graph Based on PrimeKG](https://github.com/jliu678/LLM-Synergized-by-Dynamic-Evolving-Knowledge-Graph-Via-Agentic-RAG)
+  - I [Synergize Precise Real-Time Domain Expertise with LLM's Ocean of Knowledge: Agentic RAG with Dynamic Evolving Knowledge Graph Based on PrimeKG
+](https://github.com/jliu678/LLM-Synergized-by-Dynamic-Evolving-Knowledge-Graph-Via-Agentic-RAG)
 
 - 👯 Tools I collobratively contributed to
   - [The rseqR package: perform differential analysis of RNA-seq data](https://github.com/jliu678/rseqR_myPRapproved)(my PR got [approved](https://github.com/anilchalisey/rseqR/pull/2#pullrequestreview-1178152122) and merged with other improvements)
