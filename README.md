@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 Turned complex data into preclinically validated strategies through rigorous biological & mathematical reasoning | Multi-omics & AI/ML x Health | Computational biologist
 
 ---
-I am a passionate, impact-driven computational biologist who **transforms complex data into preclinically validated cancer prevention and treatment, and drives high-confidence, efficient data-to-decision outcomes**, including hypothesis generation, actionable insights, and preclinical validated strategies.<br>
+I have successfully transformed complex data into *in vivo* preclinically validated strategies for cancer prevention by leveraging AI, muti-omics and biomedical experiments-- prioritized 25+ therapeutic targets with ~85% in vivo validation successful rate. I drive seamlessly integration between bench science and computational analysis, underpinned by strong mathematical and biological reasoning.<br>
 
-My (co-)first-author publications demonstrate the impact and outcome: Oncogene(2022 and 2025), EMBO Reports(2023), Nature Communications(2025), two manuscripts in preparation. <br>My computational approach to deliver preclinically validated strategies:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) seamlessly integrates expertise in computational analysis and bench science;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) applies robust mathematical and biological reasoning;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) leverages single-cell and spatial genomics to discover and prioritize cellular and molecular targets.
+I am expert in single-cell and spatial genomics, (Co-)first author of publications: Oncogene, 2022; EMBO Reports, 2023; Nature Communications, 2025; Oncogene, 2025; two manuscripts in preparation.
 
 I represented my university in the National Mathematical Modeling Contest and am highly proficient in developing and customizing computational infrastructure, including:<br>&nbsp;&nbsp;&nbsp;&nbsp;(a) building R packages from scratch;<br>&nbsp;&nbsp;&nbsp;&nbsp;(b) debugging and extending open-source tools in R and Python;<br>&nbsp;&nbsp;&nbsp;&nbsp;(c) developing and optimizing pipelines for translational R&D. 
-
-I have built end-to-end spatial genomics pipelines, covering: sample preparation; sequencing library construction; bioinformatics analysis; publication-ready presentation; preclinical validation.
 
 ---
 
